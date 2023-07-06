@@ -369,7 +369,7 @@ p {
         margin: 0 auto;
         padding: 188px 0;
         max-width: 1440px;
-        background-color: var(--navi-blue-color);
+      
     }
 .title {
     color: var(--white-color);
@@ -731,7 +731,7 @@ background-color: var(--white-color);
     transition: transform var(--transition);
 }
 
-.product-rows-group .link:hover.overlay,
-.product-rows-group .link:focus.overlay {
+.product-rows-group .link:hover .overlay,
+.product-rows-group .link:focus .overlay {
     transform: translateY(0);
 }
