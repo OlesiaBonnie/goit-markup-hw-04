@@ -680,7 +680,7 @@ background-color: var(--white-color);
     column-gap: 24px;
     row-gap: 48px;
 }
-.rows-group link {
+.rows-group {
         display: block;
         transition: box-shadow var(--transition);
     }
